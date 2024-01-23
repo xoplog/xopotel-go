@@ -7,7 +7,8 @@
 [![codecov](https://codecov.io/gh/xoplog/xop-go/branch/main/graph/badge.svg)](https://codecov.io/gh/xoplog/xopotel-go)
 
 Package xopotel provides gateways/connections between 
-[xop](https://github.com/muir/xop-go) 
+[xop](https://github.com/xoplog/xop-go) 
+and
 [OpenTelemetry](https://opentelemetry.io/).
 
 ## 
